@@ -2,6 +2,7 @@
 ## Java and C#
 ## Lukas Heading and Shane Bishop
 * Language purpose/genesis
+https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/LanguagePurposeAndGenesis.md
   - Why was the language created?
   - What problems was the language trying to address?
   - Is the language a reaction to a previous language or a replacement for another language?
