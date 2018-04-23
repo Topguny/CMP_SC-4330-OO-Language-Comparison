@@ -14,15 +14,21 @@
 * Name spaces
   - How are name spaces implemented?
   - How are name spaces used?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/NameSpaces.md
 * Types
   - What types does the language support?
   - Are both reference and value types supported?
   - Can new value types be created?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/Types.md
 * Classes
   - Defining
   - Creating new instances
   - Constructing/initializing
   - Destructing/de-initializing
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/Classes.md
 * Instance reference name in data type (class)
   - this? self?
 * Properties
