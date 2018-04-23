@@ -31,18 +31,28 @@
   https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/Classes.md
 * Instance reference name in data type (class)
   - this? self?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/InstanceReferenceNameInDataType.md
 * Properties
   - Getters and setters…write your own or built in?
   - Backing variables?
   - Computed properties?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/Properties.md
 * Interfaces / protocols
   - What does the language support?
   - What abilities does it have?
   - How is it used?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/InterfaceAndProtocols.md
 * Inheritance / extension
+
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/InheritanceAndReflection.md
 * Reflection
   - What reflection abilities are supported?
   - How is reflection used?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/Reflections.md
 * Memory management
   - How is it handled?
   - How does it work?
