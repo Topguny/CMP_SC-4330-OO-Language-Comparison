@@ -47,7 +47,7 @@
   https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/InterfaceAndProtocols.md
 * Inheritance / extension
 
-  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/InheritanceAndReflection.md
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/InheritanceAndExtension.md
 * Reflection
   - What reflection abilities are supported?
   - How is reflection used?
@@ -56,24 +56,44 @@
 * Memory management
   - How is it handled?
   - How does it work?
-  -Garbage collection?
+  - Garbage collection?
   - Automatic reference counting?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/MemoryManagement.md
 * Comparisons of references and values
   - How are values compared? (i.e. comparing two strings)
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/Comparisons.md
 * Null/nil references
   - Which does the language use? (null/nil/etc)
   - Does the language have features for handling null/nil references?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/NulOrNilReferences.md
 * Errors and exception handling
+
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/ErrorAndExceptionHandling.md
 * Lambda expressions, closures, or functions as types
+
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/Lambda.md
 * Implementation of listeners and event handlers
+
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/ListenersAndEventHandlers.md
 * Singleton
   - How is a singleton implemented?
   - Can it be made thread-safe?
   - Can the singleton instance be lazily instantiated?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/Singleton.md
 * Procedural programming
   - Does the language support procedural programming?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/ProceduralProgramming.md
 * Functional programming
   - Does the language support functional programming?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/FunctionalProgramming.md
 * Multithreading
   - Threads or thread-like abilities
   - How is multitasking accomplished?
+  
+  https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/Multithreading.md
