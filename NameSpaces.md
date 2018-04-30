@@ -5,7 +5,8 @@
     * Access can be restricted to classes. 
     
     ![alt text](https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/accessJava.JPG?raw=true) 
-  - C#
+  
+  - C#
     * C# actually uses the name namespace for its system, its system does pretty well just mirror Javas.
 * How are name spaces used?
   - Java
