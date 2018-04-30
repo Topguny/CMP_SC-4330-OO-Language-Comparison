@@ -9,6 +9,7 @@
   - C#
     * C# actually uses the name namespace for its system, its system does pretty well just mirror Javas.
     * Much like java access can be restricted to classes.
+    
      ![alt text](https://github.com/Topguny/CMP_SC-4330-OO-Language-Comparison/blob/master/acessC%23.JPG?raw=true) 
       
 * How are name spaces used?
