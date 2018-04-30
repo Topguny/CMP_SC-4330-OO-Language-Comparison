@@ -9,3 +9,4 @@
         - And overall just improve on the languages before it.
       * Is the language a reaction to a previous language or a replacement for another language?
         - Java itself comes from C/C++, it shares syntax. But They wanted to build apon it and make it easier with things like garbage collection, as well as give it a new architecture style for coding. This is where OOPS comes in thanks to java.
+     - C#
