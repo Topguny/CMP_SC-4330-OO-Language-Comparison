@@ -2,8 +2,8 @@
 * Defining
   - Java
   
-    public class MyClass{
-      //stuff
+    public class MyClass{<br/>
+      //stuff<br/>
     }
     
   - C#
@@ -16,11 +16,11 @@
 * Constructing/initializing
   - Java
   
-    public class MyClass{
-      String name;
-      public MyClass(String name){
-        this.name = name;
-      }
+    public class MyClass{<br/>
+      String name;<br/>
+      public MyClass(String name){<br/>
+        this.name = name;<br/>
+      }<br/>
     }
     
   - C#
