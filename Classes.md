@@ -16,9 +16,9 @@
 * Constructing/initializing
   - Java
   
-    public class MyClass{<br/>
+    public class MyClass{<br/> 
       String name;<br/>
-      public MyClass(String name){<br/>
+      public MyClass(String name){<br/>  
         this.name = name;<br/>
       }<br/>
     }
