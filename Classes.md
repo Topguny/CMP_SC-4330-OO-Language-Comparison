@@ -1,22 +1,28 @@
 # Classes
 * Defining
   - Java
+  
     public class MyClass{
       //stuff
     }
+    
   - C#
 * Creating new instances
   - Java
+    
     MyClass Math = new MyClass();
+    
   - C#
 * Constructing/initializing
   - Java
+  
     public class MyClass{
       String name;
       public MyClass(String name){
         this.name = name;
       }
     }
+    
   - C#
 * Destructing/de-initializing
   - Java
