@@ -27,10 +27,10 @@
   - C#
     * using interfaces in C# is similar to Java but not identical, like Java you must first make it. But instead of impelements, you use a ":" to show inheritance.
 
-  interface IEquatable<T>{  
-    //whatever you want to do  
-  }
+    interface IEquatable<T>{  
+      //whatever you want to do  
+    }
   
-  public class Car : IEquatable<Car>{  
-    //whatever you want to do.  
-  }
+    public class Car : IEquatable<Car>{  
+      //whatever you want to do.  
+    }
