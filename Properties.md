@@ -37,7 +37,7 @@
     }
     
     public class Foo{  
-      public string Bar { get; private set; }
+      public string Bar { get; private set; }  
     }
     
 * Backing variables?
