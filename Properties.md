@@ -42,7 +42,16 @@
     
 * Backing variables?
   - Java
+    * Java does not support a backing variable.
   - C#
+    * C# uses Backing fields/variable, which are a type of property on a value. In C# the compiler will auto generate backing variables/fields if you do something like below
+    
+    public class Foo{  
+      public string Bar { get; private set; }  
+    }
+    
+    * Or you can make your own backing variables/fields.
+    
 * Computed properties?
   - Java
   - C#
