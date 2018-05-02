@@ -54,4 +54,6 @@
     
 * Computed properties?
   - Java
+    * Getter methods are similar to computed properties, but Java does not have true computed properties.
   - C#
+    * C# does support computed properties.
