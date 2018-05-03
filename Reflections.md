@@ -1,7 +1,7 @@
 # Reflection
 * What reflection abilities are supported?
  - Java
-  * find out what methods are defined within a class
+   * find out what methods are defined within a class
   
   Method methlist[]  = cls.getDeclaredMethods();
   
