@@ -1,6 +1,6 @@
 # Comparisons of references and values
 * How are values compared? (i.e. comparing two strings)
-  -Java
+  - Java
   
   In Java there are two different ways to compare objects, by reference and by value. By reference directly compares the two objects to see if they are the same, objects using the == operater to compare them. 
   
@@ -19,7 +19,7 @@
     This is entered because the values of the two objects are identical, even if they are not the same object.
   }
   
-  -C#
+  - C#
   
   In C# there are two ways to compare objects, by reference and by value. By reference directly compares the two objects to see if they are the same, objects, meaning that even if they share the same value, they may still be two seperate and thusly different objects.
   
