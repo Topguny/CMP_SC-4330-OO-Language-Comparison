@@ -34,17 +34,17 @@
   
   public class ClassicSingleton {
 
-   private static ClassicSingleton instance = null;
-   private ClassicSingleton() {
-      // Exists only to defeat instantiation.
+   private static ClassicSingleton instance = null;  
+   private ClassicSingleton() {  
+      // Exists only to defeat instantiation.  
    }
 
-   public static ClassicSingleton getInstance() {
-      if(instance == null) {
-         instance = new ClassicSingleton();
-      }
-      return instance;
-   }
+   public static ClassicSingleton getInstance() {  
+      if(instance == null) {  
+         instance = new ClassicSingleton();  
+      }  
+      return instance;  
+   }  
 }
   - C#
   C# allows for a singleton to be lazily instantiated and have the singleton created upton the actual call of the get method, in this case it matches Java perfectly, outside of some differences in naming schemes.
